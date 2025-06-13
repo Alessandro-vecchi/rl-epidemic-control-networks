@@ -58,5 +58,5 @@ The goal is to discover strategies that effectively balance public health outcom
 
 ## 📦 Requirements
 
-Being jupyter notebooks, all the requirements are present on the first cells. If you encounter any error, check that the output cell is not specific to Kaggle/Colab, since training has been done on them mainly.
+Being Jupyter notebooks, all the requirements are present in the first cells. If you encounter any error, check that the output cell for TensorBoard is not specific to Kaggle/Colab, since training has been done on them mainly.
 
