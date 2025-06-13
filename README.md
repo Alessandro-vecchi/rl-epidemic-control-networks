@@ -56,14 +56,6 @@ The goal is to discover strategies that effectively balance public health outcom
 
 ---
 
-## 🔍 Key Features
-
-- **Human-Interpretable Actions**: Each action corresponds to a real-world policy intervention.
-- **Modular & Reproducible**: Simulation and learning pipelines are fully encapsulated.
-- **Realism-Oriented**: Network persistence (strong ties), stochastic dynamics, and multi-metric observation space.
-
----
-
 ## 📦 Requirements
 
 Being jupyter notebooks, all the requirements are present on the first cells. If you encounter any error, check that the output cell is not specific to Kaggle/Colab, since training has been done on them mainly.
